@@ -66,7 +66,10 @@ license: "CC BY"
 
 ![Загрузка файлов на Github](image/8.png){#fig-011 width=100%}
 
-#Задание для самостоятельной работы
+# Задание для самостоятельной работы
+
+1. В соответствующем каталоге я сделала отчет по лабораторной работе №2 в формате Marcdown и придоставила его в трех форматах: pdf,docx и md
+
 
 # Выводы
 
@@ -74,6 +77,6 @@ license: "CC BY"
 языка разметки Markdown.
 
 # Список литературы
+[ТУИС](https://esystem.rudn.ru/course/view.php?id=112)
 
-::: {#refs}
-:::
+[Методичка к лабораторной работе №3](https://esystem.rudn.ru/pluginfile.php/2945867/mod_resource/content/0/lab3.pdf)
