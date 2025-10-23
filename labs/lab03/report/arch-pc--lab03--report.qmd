@@ -13,7 +13,7 @@ author:
 
 tex-format: none
 ## Title
-title: "Шаблон отчёта по лабораторной работе"
+title: "Отчёт по лабораторной работе №3"
 license: "CC BY"
 ---
 
